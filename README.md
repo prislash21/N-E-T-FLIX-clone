@@ -1,4 +1,6 @@
-# NETFLIX CLONE
+# NETFLIX CLONE 🎬
+![netflix](https://tenor.com/view/netflix-netflix-startup-netflix-logo-startup-logo-gif-18131525)
+
 
 A Netflix clone built using React. It fetches the data from TMDB (The Movie Database) API. It also displays the movie trailers which is fetched from Youtube.
 
