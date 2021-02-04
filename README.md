@@ -1,5 +1,5 @@
-# NETFLIX CLONE 🎬
-![netflix](https://media1.tenor.com/images/1fe36998add400322db6aae8612d3fcf/tenor.gif?itemid=15122473)
+# NETFLIX CLONE ♥️
+![netflix](https://media1.tenor.com/images/f6b11bd53411d94338117381cf9a9b9b/tenor.gif?itemid=18131525)
 
 
 A Netflix clone built using React. It fetches the data from TMDB (The Movie Database) API. It also displays the movie trailers which is fetched from Youtube.
